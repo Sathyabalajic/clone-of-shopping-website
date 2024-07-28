@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(203, 250, 235);
+}
+.heading{
+    text-align: center;
+}
+.samimg{
+    width:300px;
+    height:300px;
+    padding:20px;
+}
+.lapimg{
+    width:300px;
+    height:300px;
+    padding:20px;
+}
+.sidehead{
+    padding:20px;
+    background-color: blanchedalmond;
+}
+.buy{
+    padding:10px;
+    background-color:rgb(250, 248, 206);
+    font-weight: bold;
+    padding-left:40px;
+    padding-right:40px;
+}
+.buy:hover{
+    background-color: rgb(250, 221, 185);
+}
+.nav1{
+    background-color: rgb(217, 247, 247);
+}
+.form1{
+    display: inline;float:right;
+    padding:10px;
+}
+.logo{
+    width:150px;
+    height:55px;
+}
